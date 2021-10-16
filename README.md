@@ -11,7 +11,7 @@
 
 - 📰 Engaged in learning **Spring boot, Agile/Scrum**
 
-- 🌱 Engaged in learning **Spring boot, Agile/Scrum**
+- 🌱 Completed Bachelor of Engineering in *IT*, preparing for **GATE Examination**
 
 - 📝 I regularly write articles on technology, science, personality development, life hacks, mobile app support codes and motivational scripts [https://medium.com/@karthick986](https://medium.com/@karthick986)
 

@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nooncoder" target="blank"><img src="https://img.shields.io/twitter/follow/nooncoder?logo=twitter&style=for-the-badge" alt="nooncoder" /></a> </p>
 
-- 🔭 I’m currently working on **Cops Mart mobile app**
+- 🔭 I’m currently working at **Cluematrix Technologies**
 
-- 🌱 I’m currently learning **Spring boot, Agile/Scrum**
+- 📰 Engaged in learning **Spring boot, Agile/Scrum**
+
+- 🌱 Engaged in learning **Spring boot, Agile/Scrum**
 
 - 📝 I regularly write articles on technology, science, personality development, life hacks, mobile app support codes and motivational scripts [https://medium.com/@karthick986](https://medium.com/@karthick986)
 
@@ -47,8 +49,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karthick986"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/karthick986" /></a></p><br><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthick986&show_icons=true&locale=en&layout=compact" alt="karthick986" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthick986&show_icons=true&locale=en&layout=compact" alt="karthick986" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthick986&show_icons=true&locale=en" alt="karthick986" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthick986&show_icons=true&locale=en" alt="karthick986" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthick986&" alt="karthick986" /></p>

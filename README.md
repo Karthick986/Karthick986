@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthick986" alt="karthick986" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/knull_coder" target="blank"><img src="https://img.shields.io/twitter/follow/nooncoder?logo=twitter&style=for-the-badge" alt="nooncoder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/knull_coder" target="blank"><img src="https://img.shields.io/twitter/follow/knull_coder?logo=twitter&style=for-the-badge" alt="knull_coder" /></a> </p>
 
-- 🔭 I’m currently working at **SpeepdLabs**
+- 🔭 I’m currently working at [**SpeepdLabs**](https://www.speedlabs.in/)
 
 - 📰 Engaged in learning **Flutter, Spring boot**
 

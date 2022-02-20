@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthick986" alt="karthick986" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nooncoder" target="blank"><img src="https://img.shields.io/twitter/follow/nooncoder?logo=twitter&style=for-the-badge" alt="nooncoder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nkull_coder" target="blank"><img src="https://img.shields.io/twitter/follow/nooncoder?logo=twitter&style=for-the-badge" alt="nooncoder" /></a> </p>
 
-- 🔭 I’m currently working at **Cluematrix Technologies**
+- 🔭 I’m currently working at **SpeepdLabs**
 
-- 📰 Engaged in learning **Spring boot, Agile/Scrum**
+- 📰 Engaged in learning **Flutter, Spring boot**
 
-- 🌱 Completed Bachelor of Engineering in *IT*, preparing for **GATE Examination**
+- 🌱 Completed Bachelor of Engineering in *IT* and internship at [**Cluematrix Technologies**](https://www.cluematrix.com/)
 
 - 📝 I regularly write articles on technology, science, personality development, life hacks, mobile app support codes and motivational scripts [https://medium.com/@karthick986](https://medium.com/@karthick986)
 

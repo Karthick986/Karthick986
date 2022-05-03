@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthick986" alt="karthick986" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/knull_coder?logo=twitter&style=for-the-badge" alt="knull_coder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_986?logo=twitter&style=for-the-badge" alt="karthick_996" /></a> </p>
 
 - 🔭 I’m currently working at [**SpeepdLabs**](https://www.speedlabs.in/)
 
-- 📰 Engaged in learning **Flutter, Spring boot**
+- 📰 Engaged in learning **Flutter, SQL**
 
-- 🌱 Completed Bachelor of Engineering in *IT* and internship at [**Cluematrix Technologies**](https://www.cluematrix.com/)
+- 🌱 Completed Bachelor of Engineering in *IT* from Nagpur University
+
+- 💻 Former Flutter Intern at [**Cluematrix Technologies**](https://www.cluematrix.com/)
 
 - 📝 I regularly write articles on technology, science, personality development, life hacks, mobile app support codes and motivational scripts [https://medium.com/@karthick986](https://medium.com/@karthick986)
 

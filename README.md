@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [**SpeepdLabs**](https://www.speedlabs.in/)
 
-- 📰 Engaged in learning **Flutter, SQL**
+- 📰 Engaged in learning **Flutter, SQL and NodeJS**
 
 - 🌱 Completed Bachelor of Engineering in *IT* from Nagpur University
 
@@ -29,7 +29,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connnect:</h3>
 <p align="left">
 <a href="https://twitter.com/karthick_986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthick_986" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthick986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick986" height="30" width="40" /></a>

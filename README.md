@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_986?logo=twitter&style=for-the-badge" alt="karthick_996" /></a> </p>
 
-- 🔭 I’m currently working at [**SpeepdLabs**](https://www.speedlabs.in/)
+- 🔭 I’m currently building [**SpeepdLabs**](https://www.speedlabs.in/)
 
 - 📰 Engaged in learning **Flutter, SQL and NodeJS**
 
@@ -31,7 +31,7 @@
 
 <h3 align="left">Let's connnect:</h3>
 <p align="left">
-<a href="https://twitter.com/karthick_986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthick_986" height="30" width="40" /></a>
+<a href="https://twitter.com/karthick_986" target="blank"><img align="center" src="https://raw.githubusercontent.com/Karthick986/Karthick986/95673f450d839fcbdfd68db9dc9a8057dc281f03/twitter.png" alt="karthick_986" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthick986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthick986" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12103312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12103312" height="30" width="40" /></a>
 <a href="https://fb.com/100038905445078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100038905445078" height="30" width="40" /></a>

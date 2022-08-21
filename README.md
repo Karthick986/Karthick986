@@ -75,6 +75,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthick986&show_icons=true&locale=en&layout=compact" alt="karthick986" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthick986&show_icons=true&locale=en" alt="karthick986" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthick986&" alt="karthick986" /></p>

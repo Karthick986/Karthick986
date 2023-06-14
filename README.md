@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_986?logo=twitter&style=for-the-badge" alt="karthick_996" /></a> </p>
 
-- 👨🏼‍💻 Currently working in [**AppIncubatior**](https://www.appincubator.io/)
+- 👨🏼‍💻 Currently working in [**AppIncubator**](https://www.appincubator.io/)
 
 - 🔭 Build, improve and maintain [**SpeedLabs**](https://www.speedlabs.in/) in 2022
 
@@ -15,7 +15,7 @@
 
 - 🌱 Completed Bachelor of Engineering in *IT* from Nagpur University
 
-- 💻 Former Flutter Intern at [**Cluematrix Technologies**](https://www.cluematrix.com/)
+- 💻 Former Flutter Intern at [**Cluematrix Technologies**](https://www.cluematrix.com/) in 2021
 
 - 📝 I regularly write articles on technology, science, personality development, life hacks, mobile app support codes and motivational scripts [https://medium.com/@karthick986](https://medium.com/@karthick986)
 

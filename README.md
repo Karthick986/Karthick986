@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_986?logo=twitter&style=for-the-badge" alt="karthick_996" /></a> </p>
 
-- 👨🏼‍💻 Currently working in [**AppIncubator**](https://www.appincubator.io/)
-
 - 🔭 Build, improve and maintain [**SpeedLabs**](https://www.speedlabs.in/) in 2022
 
 - 📰 Engaged in learning **Flutter, SQL and NodeJS**
@@ -19,7 +17,7 @@
 
 - 📝 I regularly write articles on technology, science, personality development, life hacks, mobile app support codes and motivational scripts [https://medium.com/@karthick986](https://medium.com/@karthick986)
 
-- 💬 Ask me about **Java, Flutter, Android, Git**
+- 💬 Ask me about **Flutter, Java, Firebase, SQL, Git**
 
 - 📫 How to reach me **karthikgaddam986@gmail.com**
 

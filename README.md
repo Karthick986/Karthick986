@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_986?logo=twitter&style=for-the-badge" alt="karthick_996" /></a> </p>
 
-- 🔭 Build, improve and maintain [**SpeedLabs**](https://www.speedlabs.in/) in 2022
+- 🤖 Develop, manage and enhance [**apna AI**](https://www.apnaai.com/) in 2023/24
+
+- 🔭 Build, improve and maintain [**SpeedLabs**](https://www.speedlabs.in/) in 2022/23
 
 - 📰 Engaged in learning **Flutter, SQL and NodeJS**
 

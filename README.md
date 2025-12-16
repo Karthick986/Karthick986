@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_986" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_986?logo=twitter&style=for-the-badge" alt="karthick_996" /></a> </p>
 
-- 🌐 Drove user experience and scale new features [**arre voice**](https://www.arrevoice.com/) in 2024-25
+- 🌐 Drove user experience and scale new features [**Arrè Voice**](https://www.arrevoice.com/) in 2024-25
 
 - 🤖 Develop, manage and enhance [**apna AI**](https://www.apnaai.com/) in 2023-24
 
